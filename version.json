@@ -1,5 +1,5 @@
 {
-    "version": "0.8.0",
-    "url": "https://github.com/shuuru/bpsr-tools-updates/releases/download/v0.8.0/bpsr-tools.bin",
-    "notes": ["Encounter history panel with search, sorting, and pagination","Global capture control in titlebar with connection status indicator","Score mode (GS/SS) and rate toggles in DPS meter","Entity inspector redesigned with card-based layout","Tab bar reorganized into visual groups","UI component library (dropdown menus, toggles, popovers)","Tina buff acceleration compensation","Imagine buff receipt tracking","Battle log raw UUID and nearby entity tracking","Removed background image slideshow system","Replaced responsive units with fixed sizing","Custom scrollbar styling"]
+    "version": "0.9.0",
+    "url": "https://github.com/shuuru/bpsr-tools-updates/releases/download/v0.9.0/bpsr-tools.bin",
+    "notes": ["Checklist panel with daily and weekly task tracking","Localization updates across all supported languages"]
 }

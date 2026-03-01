@@ -1,0 +1,5 @@
+{
+    "version": "0.3.0",
+    "url": "https://github.com/shuuru/bpsr-tools-updates/releases/download/v0.3.0/bpsr-tools.bin",
+    "notes": ["fix(ci): use compact jq output to avoid multiline GITHUB_OUTPUT"]
+}

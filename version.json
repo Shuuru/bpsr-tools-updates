@@ -1,5 +1,5 @@
 {
-    "version": "0.7.0",
-    "url": "https://github.com/shuuru/bpsr-tools-updates/releases/download/v0.7.0/bpsr-tools.bin",
-    "notes": ["Module optimizer with presets and attribute constraints","28 language translations with language selector","Skill name display in encounters"]
+    "version": "0.7.1",
+    "url": "https://github.com/shuuru/bpsr-tools-updates/releases/download/v0.7.1/bpsr-tools.bin",
+    "notes": ["Fixed skill mappings for Moonstrike, Dissonance, and Concerto","Retroactive class detection for older encounters"]
 }

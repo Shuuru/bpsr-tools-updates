@@ -1,5 +1,5 @@
 {
-    "version": "0.9.0",
-    "url": "https://github.com/shuuru/bpsr-tools-updates/releases/download/v0.9.0/bpsr-tools.bin",
-    "notes": ["Checklist panel with daily and weekly task tracking","Localization updates across all supported languages"]
+    "version": "0.10.0",
+    "url": "https://github.com/shuuru/bpsr-tools-updates/releases/download/v0.10.0/bpsr-tools.bin",
+    "notes": ["Background image slideshow with bulk apply","Window positioning constrained to current monitor","UI layout improvements","Translation updates"]
 }

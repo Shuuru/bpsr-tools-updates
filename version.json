@@ -1,5 +1,5 @@
 {
-    "version": "0.11.0",
-    "url": "https://github.com/shuuru/bpsr-tools-updates/releases/download/v0.11.0/bpsr-tools.bin",
-    "notes": ["World boss HP tracking and registry","Party management and raid grouping","Real-time translation overlay (ONNX engine)","Debug event logging panel","DPS meter enhancements (party index, HP display, score mode)","Buff management improvements","Token update notifications","New boss images","Window resizing and imagine tier enhancements","Translation updates"]
+    "version": "0.12.0",
+    "url": "https://github.com/shuuru/bpsr-tools-updates/releases/download/v0.12.0/bpsr-tools.bin",
+    "notes": ["Multi-character support","Module preset system","Boss raid DPS tracking","Improved DPS meter party tracking","Enhanced boss timer panel","Simplified settings page","Translation and capture improvements","New companion website with boss database, leaderboards, and downloads"]
 }

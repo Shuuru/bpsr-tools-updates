@@ -1,5 +1,5 @@
 {
-    "version": "0.13.5",
-    "url": "https://github.com/shuuru/bpsr-tools-updates/releases/download/v0.13.5/bpsr-tools.bin",
-    "notes": ["Layout adjustments for rankings, bosses, and modules tabs"]
+    "version": "0.14.0",
+    "url": "https://github.com/shuuru/bpsr-tools-updates/releases/download/v0.14.0/bpsr-tools.bin",
+    "notes": ["Add real-time boss tracking and spectator features"]
 }

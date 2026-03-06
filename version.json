@@ -1,5 +1,5 @@
 {
-    "version": "0.14.0",
-    "url": "https://github.com/shuuru/bpsr-tools-updates/releases/download/v0.14.0/bpsr-tools.bin",
-    "notes": ["Add real-time boss tracking and spectator features"]
+    "version": "0.15.0",
+    "url": "https://github.com/shuuru/bpsr-tools-updates/releases/download/v0.15.0/bpsr-tools.bin",
+    "notes": ["VPN detection and automatic adapter retry when no game traffic is found","Suspected bot players are now dimmed in the DPS meter","Adapter status and retry progress shown in the waiting screen","Party sync now uses granular game events for more accurate member tracking","Discord authentication and account linking","Improved update system with version history","Redesigned website home page"]
 }
